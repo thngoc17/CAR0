@@ -1,0 +1,33 @@
+********************************************
+*              Welcome to Co Caro          *
+******************Thanh Vien****************
+*         23122021          Bui Duy Bao    *
+*         23122025          Pham Ngoc Duy  *
+*         23122012          Le Thai Ngoc   *
+********************************************
+
+~~~~~~~~~~~~~~~~Window help~~~~~~~~~~~~~~~~~
+
+- Su dung cac phim mui ten va Enter
+  de chon menu tuong ung
+- Khi muon quay lai, an Esc
+
+~~~~~~~~~~~~~~~In Game help~~~~~~~~~~~~~~~~~
+
+- Su dung cac phim W/A/D/S hoac cac
+   phim mui ten de di chuyen.
+- An Enter/Space de danh.
+
+~~~~~~~~~~~~~~~~~~~Rule~~~~~~~~~~~~~~~~~~~~~
+
+- Nguoi choi thang khi co 5 quan co lien
+  tiep theo hang doc, theo hang ngang hoac
+  theo duong cheo. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        -Press Esc to turn back-
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
