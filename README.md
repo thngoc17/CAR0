@@ -1,7 +1,7 @@
 # CaroN13
-  -Đồ án Caro hướng thủ tục của nhóm 13 lớp TTNT  
+  Đồ án Caro hướng thủ tục của nhóm 13 lớp TTNT  
 
-  -Thành Viên:
+  Thành Viên:
   
   -Phạm Ngọc Duy - 23122025
   
